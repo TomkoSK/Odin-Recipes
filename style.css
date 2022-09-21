@@ -7,6 +7,11 @@ li{
 color: rgb(209,217,220);
 }
 
+img{
+    width: 500px;
+    height: 500px;
+}
+
 .link{
     color: rgb(169,121,43);
 }
